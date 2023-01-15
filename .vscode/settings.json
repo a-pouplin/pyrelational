@@ -1,0 +1,4 @@
+{
+    "jupyter.notebookFileRoot": "${workspaceFolder}${pathSeparator}${env:PYTHONPATH}",
+    "jupyter.jupyterServerType": "local"
+}
